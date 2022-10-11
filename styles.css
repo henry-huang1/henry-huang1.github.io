@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Source Sans Pro', 'serif';
+}
+
+html {
+    background-color: #999999;
+    background-image: url("sssurf.svg");
+    background-size: cover;
+    border: solid 1px #ff3333;
+    min-height: 100%;
+}
+/*body {
+    background-color: #999999;
+    border: solid 1px #ff3333;
+    min-height: 100%;
+}*/
